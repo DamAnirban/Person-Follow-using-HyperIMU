@@ -10,7 +10,7 @@ This is a person following or path following algorithm for a mobile robot that u
 
 1. Start by selecting the packets for linear acceleration and orientation in HyperIMU
 
-| col1 | col2 | col3 |
+| App | Orientation | Linear Acceleration |
 | ---- | ---- | ---- |
 | <img src="https://github.com/DamAnirban/Person-Follow-using-HyperIMU/blob/master/img/hyp2.png"> | <img src="https://github.com/DamAnirban/Person-Follow-using-HyperIMU/blob/master/img/hyp3.jpg"> | <img src="https://github.com/DamAnirban/Person-Follow-using-HyperIMU/blob/master/img/hyp4.png"> |
 
