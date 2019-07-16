@@ -9,5 +9,5 @@ This is a person following or path following algorithm for a mobile robot that u
 ## Setup
 
 1. Start by selecting the packets for linear acceleration and orientation in HyperIMU
-<img src="https://github.com/DamAnirban/Person-Follow-using-HyperIMU/blob/master/img/aaa.jpg">
+<img src="https://github.com/DamAnirban/Person-Follow-using-HyperIMU/blob/master/img/hyp2.png">
 2. mounting the cellphone on the foot of the user for better veloity updates from the IMU
