@@ -1,0 +1,9 @@
+<launch>
+  <!-- HyperIMU receiver and Pedestrian Dead Reckoning node -->
+  <node name="himu_sensor" pkg="person_follow" type="himu_sensor.py" output="screen">
+    <param name="host" value="192.168.43.230"/>
+  </node>
+
+  <!-- move_base goal publisher -->
+  <node name="goal_data" pkg="person_follow" type="goal_data.py" output="screen"/>
+</launch>
